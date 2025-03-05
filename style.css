@@ -58,10 +58,16 @@ body {
 }
 
 .apresentacao__conteudo__titulo {
-    font-size: 50px;
+    font-size: 45px;
     font-family: "Raleway", serif;
 }
 
 .apresentacao__conteudo__paragrafo {
     font-size: 22px;
+}
+
+.apresentacao__imagem {
+    flex-direction: space-evenly;
+    width: 500px;
+    margin: 40px;
 }
